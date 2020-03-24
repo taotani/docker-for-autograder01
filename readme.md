@@ -38,7 +38,6 @@ workspaces
 │       │   └── BusinessTrip.java
 │       ├── main
 │       │   └── Application.java
-│       ├── module-info.java
 │       └── utility
 │           └── StandardInputReader.java
 ├── Trainee03
